@@ -1,0 +1,28 @@
+name: Vanilla Cream
+origin: Sweden
+type: Creme
+ingredients:
+  - item: Milk
+    amount: 2
+    unit: dl
+  - item: Yolk
+    amount: 2
+    unit: item
+  - item: Vanilla Sugar
+    amount: 1
+    unit: tbsp
+  - item: Sugar
+    amount: 1
+    unit: tbsp
+  - item: Starch
+    amount: 1
+    unit: tbsp
+hardware:
+  - item: stove
+instructions:
+  - Stir milk, yolk, sugar and starch
+  - Heat and stir until cream thickens
+  - Add vanilla sugar
+  - Mix it.
+  - Let it cool down
+  - Enjoy

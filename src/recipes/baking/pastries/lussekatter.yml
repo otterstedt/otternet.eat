@@ -1,0 +1,57 @@
+name: Lussekatter
+origin: Sweden
+type: cookie
+ingredients:
+  - item: Butter
+    amount: 175
+    unit: g
+  - item: Sugar
+    amount: 2
+    unit: dl
+  - item: Yeast (dry)
+    amount: 12
+    unit: g
+  - item: Saffron
+    amount: 1
+    unit: g
+  - item: white flour
+    amount: 1.5
+    unit: l
+  - item: Milk
+    amount: 5
+    unit: dl
+  - item: salt
+    amount: 0.5
+    unit: tsp
+  - item: egg
+    amount: 1
+    unit: unit
+  - item: raisins
+  - item: almonds
+hardware:
+  - item: oven
+    amount: 200
+    unit: C
+  - item: timer
+    amount: 
+      - 30
+      - 30
+      - 10
+    unit: min
+instructions:
+  - Melt butter and mix some sugar with the saffron
+  - Mix the saffron with the melted butter.
+  - Add the milk and heat to 37-40 C
+  - Mix the yeast with some of the liquid
+  - Add the rest of the liquid, sugar and salt
+  - Mix in almost all of the flour
+  - Work into a dough for 5-10 mins in machine or by hand
+  - Top with some flour on the dough
+  - Let it rise to double size for about 30 mins
+  - Get the dough on a bench, add the rest of the flour if needed.
+  - Create buns and put on parchement paper
+  - Let it rise for about 30 mins
+  - Put the oven at 200 C
+  - Brush with whipped egg and add raisins and/or almonds
+  - Bake for about 10 mins
+  - Let it cool down on the grate with a towel on top
