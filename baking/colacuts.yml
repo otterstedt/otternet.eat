@@ -1,0 +1,42 @@
+name: Cola Cuts/Kolasnittar
+origin: Sweden
+type: cookie
+ingredients:
+  - item: Butter
+    amount: 100
+    unit: g
+  - item: Sugar
+    amount: 1
+    unit: dl
+  - item: Vanilla Sugar
+    amount: 1
+    unit: tsp
+  - item: Syrup (dark)
+    amount: 2
+    unit: tbsp
+  - item: white flour
+    amount: 2.5
+    unit: dl
+  - item: baking powder
+    amount: 1
+    unit: tsp
+hardware:
+  - item: oven
+    amount: 175
+    unit: C
+  - item: timer
+    amount: 
+      - 12
+      - 5
+    unit: min
+instructions:
+  - Mix butter, sugar, vanilla sugar and syrup and work it together
+  - Mix flour and baking powder, add it to the mix
+  - Work everything into a dough
+  - Cut the dough in 2 pieces
+  - Roll into 2 lengths, about 40 cm.
+  - Put them on parchement paper and flatten
+  - Bake for about 12 mins
+  - Let them cool of for about 5 mins
+  - Cut into angled cookies
+  - Enjoy

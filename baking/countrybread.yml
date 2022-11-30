@@ -1,0 +1,41 @@
+name: Simple Countryside Bread
+origin: Sweden
+type: bread
+ingredients:
+  - item: water
+    amount: 4
+    unit: dl
+  - item: oil
+    amount: to taste
+    unit: 
+  - item: salt
+    amount: 1
+    unit: tbsp
+  - item: dry yeast
+    amount: 5
+    unit: g
+  - item: whole wheat flour
+    amount: 9
+    unit: dl
+hardware:
+  - item: oven
+    amount: 200
+    unit: C
+  - item: timer
+    amount: 
+      - 45
+      - 30
+      - 35
+      - 5
+    unit: min
+instructions:
+  - Heat water to 40 C
+  - Mix water, oil, salt, yeast and flour.
+  - Work everything into a dough
+  - Let it rise for 45 mins
+  - Shape it into a loaf
+  - Let it rise for about 30 mins
+  - Put the oven to 200 C
+  - Bake the loaf for 35 mins, add up to 5 mins on max for a crispy crust
+  - Let it cool down on the grate
+  - Enjoy
